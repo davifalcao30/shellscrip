@@ -1,3 +1,5 @@
-img { height: auto;}
-body {background: green}
-a {background-color: orange}
+
+body {background: black; color: white}
+a {color: red}
+h1 {text-align: center; background: red}
+fieldset {text-align: left;}
